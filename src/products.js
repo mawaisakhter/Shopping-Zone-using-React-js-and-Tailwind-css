@@ -3,21 +3,7 @@
 
 export const PRODUCTS = [
  
-  {
-    id: 2,
-    ProductName: "Macbook Pro 2022 (M1)",
-    Price: 1999.0,
-    ProductImage: product2,
-    BrandName: 'positive beverage',  
-    OldPrice: 39.85,
-    value: 'Technology',
-    category:"Technology",
-    subcategory: 'Iphone',
-    img1: M2,
-    img2: product2,
-    img3: product3,
-    img4: M2  
-  },
+ 
   {
     id: 3,
     ProductName: "Cannon M50 Camera",
