@@ -2,21 +2,7 @@
 
 
 export const PRODUCTS = [
-  {
-    id: 1,
-    ProductName: 'Redmi Note 12 Pro', 
-    Price: 999.0,
-    OldPrice: 1050.85,
-    ProductImage: M2,
-    BrandName: 'Xiaomi',  
-    value: 'Technology',
-    category:"Technology",
-    subcategory: 'Android',
-    img1: product3,
-    img2: product2,
-    img3: product3,
-    img4: M2 
-  },
+ 
   {
     id: 2,
     ProductName: "Macbook Pro 2022 (M1)",
