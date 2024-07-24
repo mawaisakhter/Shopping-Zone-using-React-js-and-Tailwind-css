@@ -169,19 +169,5 @@ export const PRODUCTS = [
     img3: product3,
     img4: M2 
   },
-  {
-    id: 13,
-    ProductName: 'Fashion4', 
-    Price: 999.0,
-    OldPrice: 1050.85,
-    ProductImage: M2,
-    BrandName: 'Xiaomi',  
-    value: 'L',
-    category:"Grocery",
-    subcategory: 'Fruit',
-    img1: product3,
-    img2: product2,
-    img3: product3,
-    img4: M2 
-  },
+  
 ];
