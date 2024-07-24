@@ -1,6 +1,4 @@
-import M2 from '../src/assets/products/M2.jpeg';
-import product2 from '../src/assets/products/Product2.jpeg';
-import product3 from '../src/assets/products/Product3.jpeg';
+
 
 
 export const PRODUCTS = [
